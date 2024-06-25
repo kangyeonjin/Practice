@@ -2,7 +2,7 @@ package WebCrawling;
 
 import java.util.List;
 
-@Controller
+//@Controller
 public class NewsController {
 
 //    private final NewsService newsService;
